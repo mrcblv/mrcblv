@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mrcblv
-- 👀 I’m interested in programming and Cyber Security
+- 👋 Hi, I’m @mrcblv.
+- 👀 I’m interested in programming and Cyber Security.
 - 🌱 I’m currently learning Linux, Java, C#.
 
 <!---
