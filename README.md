@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrcblv.
-- 👀 I’m interested in programming and Cyber Security.
-- 🌱 I’m currently learning Linux, Java, C#.
+- 👀 I’m interested in programming and IT world.
+- 🌱 I’m currently learning PHP, SQL, Machine Learning.
 
 <!---
 mrcblv/mrcblv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
